@@ -1,0 +1,13 @@
+# requirements-build.txt
+# Dependencies for building the language database
+# (Only needed if you're running the data extraction pipeline)
+
+# HTTP clients
+httpx>=0.24.0
+requests>=2.28.0
+
+# Data processing
+pandas>=1.5.0
+
+# Optional: for better progress bars
+tqdm>=4.65.0

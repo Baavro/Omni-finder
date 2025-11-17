@@ -13,7 +13,7 @@ The LanguageFinder makes it easy to discover language codes for use with Omnilin
 pip install omnilingual-asr
 pip install omnilingual-finder  # Or use your local version
 
-# Or from source (for development)
+# from source (for development)
 cd omnilingual-finder
 pip install -e .
 ```

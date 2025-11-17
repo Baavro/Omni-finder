@@ -108,7 +108,7 @@ omnilingual-finder stats
 
 ```bash
 # From source (recommended for now)
-git clone https://github.com/yourusername/omnilingual-finder.git
+git clone https://github.com/Baavro/omnilingual-finder.git
 cd omnilingual-finder
 
 # Build language database
@@ -416,7 +416,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 ```bash
 # Clone repo
-git clone https://github.com/yourusername/omnilingual-finder.git
+git clone https://github.com/Baavro/omnilingual-finder.git
 cd omnilingual-finder
 
 # Install dev dependencies
@@ -444,7 +444,7 @@ If you use this tool in research:
   title={Omnilingual Language Finder: Geographic Discovery for Multilingual Speech Recognition},
   author={Your Name},
   year={2025},
-  url={https://github.com/yourusername/omnilingual-finder}
+  url={https://github.com/Baavro/omnilingual-finder}
 }
 ```
 
@@ -505,6 +505,6 @@ All data sources are properly attributed in the metadata.
 
 Made with ❤️ for the world's 7,000+ language communities
 
-[⭐ Star this repo](https://github.com/yourusername/omnilingual-finder) • [🐛 Report Bug](https://github.com/yourusername/omnilingual-finder/issues) • [💡 Request Feature](https://github.com/yourusername/omnilingual-finder/issues)
+[⭐ Star this repo](https://github.com/Baavro/omnilingual-finder) • [🐛 Report Bug](https://github.com/Baavro/omnilingual-finder/issues) • [💡 Request Feature](https://github.com/Baavro/omnilingual-finder/issues)
 
 </div>

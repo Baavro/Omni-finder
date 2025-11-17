@@ -10,13 +10,13 @@ long_description = (this_directory / "README.md").read_text()
 
 setup(
     name="omnilingual-finder",
-    version="0.1.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    version="1.0.0",
+    author="Sankalp Patidar",
+    author_email="patidarsankalp@example.com",
     description="Find language codes for Meta's Omnilingual ASR in seconds",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/omnilingual-finder",
+    url="https://github.com/Baavro/omnilingual-finder",
     packages=find_packages(exclude=["tests", "examples", "scripts"]),
     classifiers=[
         "Development Status :: 4 - Beta",
@@ -69,8 +69,8 @@ setup(
         "linguistics",
     ],
     project_urls={
-        "Bug Reports": "https://github.com/yourusername/omnilingual-finder/issues",
-        "Source": "https://github.com/yourusername/omnilingual-finder",
-        "Documentation": "https://github.com/yourusername/omnilingual-finder#readme",
+        "Bug Reports": "https://github.com/Baavro/omnilingual-finder/issues",
+        "Source": "https://github.com/Baavro/omnilingual-finder",
+        "Documentation": "https://github.com/Baavro/omnilingual-finder#readme",
     },
 )
